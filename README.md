@@ -15,7 +15,7 @@ You are required to identify and count cells. Among your task will be required t
 - **Label data:** Identify how a cell looks like and document the process, e.g., tools used. A sample image is provided. Please note that **"NOT ALL CELLS ARE LABEL ON THE SAMPLE IMAGE".** You shall label as many as you consider necessary
 - **Build ML Model:** You can create your own ML model architecture or take an existing model as base
 - **Train ML Model:** You shall train the model and save the trained model as file with extension .h5
--**Document the results:** Please write a short * "RESULTS.MD"* where you briefly describe the obtained results
+-**Document the results:** Please write a short *"RESULTS.MD"* where you briefly describe the obtained results
 
 # Keep in mind
 
