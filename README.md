@@ -7,7 +7,7 @@ This repository contains the basic information for you to develop your first pro
 
 For your first task, you are required to fork this repository as to get the basic information and develop your project in your own repository by following the sample structure.
 
-**Note: ** We highly advice to use Google Colab as main working station, since neither you or us should configure or have special hardware requirements for this project.
+**Note:** We highly advice to use Google Colab as main working station, since neither you or us should configure or have special hardware requirements for this project.
 
 ## Project description
 
